@@ -1,0 +1,5 @@
+PAD = 0
+UNK = 100
+CLS = 101
+SEP = 102
+MASK = 103
